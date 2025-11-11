@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**nadiejcp/nadiejcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Machine Learning & Automation Engineer — Portfolio & Resume
 
-Here are some ideas to get you started:
+Welcome to my professional portfolio repository.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ About Me
+
+I’m a Machine Learning and Software Engineer passionate about building systems that connect data science with real-world applications.
+My work combines:
+
+Model development (YOLO, Random Forests, RNNs, CNN+LSTM architectures)
+
+Automation and integration through FastAPI backends and data workflows
+
+Visualization and analysis using Matplotlib, Dashboards, and Python plugins
+
+Experience with AWS, embedded ML systems, and edge deployment
+
+I focus on transforming data-driven models into efficient, maintainable, and automated software solutions.
+
+🧩 Technical Stack
+
+Languages: Python, SQL, JavaScript
+Frameworks: PyTorch, scikit-learn, FastAPI
+Tools: Docker, Git, AWS, Azure, Linux
+Concepts: Supervised Learning, Image Segmentation, MLOps, Predictive Modeling
+
+🌍 Goal
+
+To contribute to innovative projects that bridge the gap between machine learning research and scalable software engineering, creating systems that learn, adapt, and deliver measurable value.
