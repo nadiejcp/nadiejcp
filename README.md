@@ -30,7 +30,7 @@ Concepts: Supervised Learning, Image Segmentation, MLOps, Predictive Modeling
 
 To contribute to innovative projects that bridge the gap between machine learning research and scalable software engineering, creating systems that learn, adapt, and deliver measurable value.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiejcp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nadiejcp&theme=dark&hide_border=false)
 
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=nadiejcp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
-https://nirzak-streak-stats.vercel.app/?user=nadiejcp&theme=dark&hide_border=false
